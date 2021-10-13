@@ -6,6 +6,8 @@ Esse curso ensina como contribuir para projetos OpenSource.
 Link para o curso: [Python PRO](https://www.pythonpro.com.br) 
 
 CI:  [![Build Status](https://app.travis-ci.com/fespaulonci/pytools.svg?branch=master)](https://app.travis-ci.com/fespaulonci/pytools)
+PYUP:  [![Updates](https://pyup.io/repos/github/fespaulonci/pytools/shield.svg)](https://pyup.io/repos/github/fespaulonci/pytools/)
+  [![Python 3](https://pyup.io/repos/github/fespaulonci/pytools/python-3-shield.svg)](https://pyup.io/repos/github/fespaulonci/pytools/)
 
 Suportada versão 3 do Python
 
